@@ -4,6 +4,7 @@
 >
 > 行百里者半九十
 
+[TOC]
 
 ## 程序、进程、线程
 
@@ -716,4 +717,4 @@ class ShutDownTask implements Runnable{
 
 ## 附录
 
-> 源码链接：E:\workspace\Java_workspace\imooc_learning\src\thread
+> 源码链接：https://github.com/zhu-2002/java_basics/tree/main/src/thread
